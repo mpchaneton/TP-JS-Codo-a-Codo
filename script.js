@@ -1,7 +1,5 @@
 /* let nombreUsuario = "Paula"
-
 console.log(nombreUsuario)*/
-
 
 function totalAPagar(cantTickets,categoria){
 const valorTicket = 200
@@ -21,7 +19,6 @@ switch (categoria){
 return totalAPagar
 
 }
-
 let boton = document.getElementById("liveAlertBtn")
 boton.addEventListener("click",()=>{
     let cantidad = document.getElementById("cant").value
@@ -31,6 +28,5 @@ boton.addEventListener("click",()=>{
 
     let divMensaje = document.getElementById("aPagar")
     divMensaje.textContent = valor
-
 }
 )
