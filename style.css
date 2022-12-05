@@ -1,0 +1,31 @@
+*{
+    justify-content: center;
+}
+
+#S2 {
+    text-align: center;
+  }
+
+
+#S6 {
+    background-color: lightblue;
+    justify-content: left;
+    align-items: center;
+    height: 50px;
+    padding-left: 3%;
+    border-radius: 4px 4px 4px 4px
+}
+
+.btn {
+    background-color: yellowgreen;
+    border-style: none;
+   height: 120%;
+    }
+
+
+#S7 {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    margin-left: 17%;
+}
